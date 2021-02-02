@@ -1,0 +1,83 @@
+<product>
+  <col1>
+    <id>
+    11
+    </id>
+    <name>
+    Samsung
+    </name>
+    <address>
+      <house>
+      38
+      </house>
+      <room>
+      3
+      </room>
+      <area>
+      Banani, Dhaka
+      </area>
+    </address>
+    <department>
+    Sales
+    </department>
+    <salary>
+    $20000
+    </salary>
+    
+  </col1>
+  <col2>
+    <id>
+    20
+    </id>
+    <name>
+    HTC
+    </name>
+    <address>
+      <flat>
+      A/1
+      </flat>
+      <house>
+      20
+      </house>
+      <room>
+      18
+      </room>
+      <area>
+      Mipur, Dhaka
+      </area>
+    </address>
+    <department>
+    Accounts
+    </department>
+    <salary>
+    $12000
+    </salary>
+    
+  </col2>
+  <col3>
+    <id>
+    23
+    </id>
+    <name>
+    Nokia
+    </name>
+    <address>
+      <house>
+      38
+      </house>
+      <room>
+      R#3
+      </room>
+      <area>
+      Motijheel
+      </area>
+    </address>
+    <department>
+    Human Resource
+    </department>
+    <salary>
+    $30000
+    </salary>
+    
+  </col3>
+</product>
