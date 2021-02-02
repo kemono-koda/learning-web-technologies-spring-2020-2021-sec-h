@@ -1,0 +1,62 @@
+<product>
+  <id>
+    <id1>
+      11
+    </id1>
+    <id2>
+      20
+    </id2>
+    <id3>
+      23
+    </id3>
+  </id>
+
+  <name>
+    <name1>
+      Samsung
+    </name1>
+    <name2>
+      HTC
+    </name2>
+    <name3>
+      Nokia
+    </name3>
+  </name>
+
+  <unitPrice>
+    <unitPrice>
+      35000
+    </unitPrice>
+    <unitPrice>
+      65300
+    </unitPrice>
+    <unitPrice>
+      25100
+    </unitPrice>
+  </unitPrice>
+
+  <stock>
+    <stock>
+      50
+    </stock>
+    <stock>
+      35
+    </stock>
+    <stock>
+      100
+    </stock>
+  </stock>
+
+  <status>
+    <status>
+      1
+    </status>
+    <status>
+      0
+    </status>
+    <status>
+      1
+    </status>
+  </status>
+
+</product>
