@@ -1,10 +1,10 @@
 <product>
   <col1>
     <id>
-    11
+    1
     </id>
     <name>
-    Samsung
+    John Doe
     </name>
     <address>
       <house>
@@ -27,10 +27,10 @@
   </col1>
   <col2>
     <id>
-    20
+    2
     </id>
     <name>
-    HTC
+    Mark Zuckerberg
     </name>
     <address>
       <flat>
@@ -56,10 +56,10 @@
   </col2>
   <col3>
     <id>
-    23
+    3
     </id>
     <name>
-    Nokia
+    Ala Voski
     </name>
     <address>
       <house>
