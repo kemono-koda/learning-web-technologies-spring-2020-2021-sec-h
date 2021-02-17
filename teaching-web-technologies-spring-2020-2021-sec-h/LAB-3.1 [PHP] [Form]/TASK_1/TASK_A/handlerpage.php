@@ -10,3 +10,4 @@
   {
     echo "Please enter a name";
   }
+?>
